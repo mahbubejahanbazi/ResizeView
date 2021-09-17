@@ -7,26 +7,26 @@ The application has anchors on the view to resize the view in any direction, in 
 ### Java
 
 <p align="center">
-  <img src="https://github.com/peymanjahanbazi/ResizeView/blob/main/images/app.jpg" />
+  <img src="https://github.com/mahbubejahanbazi/ResizeView/blob/main/images/app.jpg" />
 </p>
 <p align="center">Resize in top direction</p>
 <p align="center">
-  <img src="https://github.com/peymanjahanbazi/ResizeView/blob/main/images/resize_top.jpg" />
+  <img src="https://github.com/mahbubejahanbazi/ResizeView/blob/main/images/resize_top.jpg" />
 </p>
 
 <p align="center">Resize in bottom direction</p>
 <p align="center">
-  <img src="https://github.com/peymanjahanbazi/ResizeView/blob/main/images/resize_bottom.jpg" />
+  <img src="https://github.com/mahbubejahanbazi/ResizeView/blob/main/images/resize_bottom.jpg" />
 </p>
 
 <p align="center">Resize in left direction</p>
 <p align="center">
-  <img src="https://github.com/peymanjahanbazi/ResizeView/blob/main/images/resize_left.jpg" />
+  <img src="https://github.com/mahbubejahanbazi/ResizeView/blob/main/images/resize_left.jpg" />
 </p>
 
 <p align="center">Resize in all direction</p>
 <p align="center">
-  <img src="https://github.com/peymanjahanbazi/ResizeView/blob/main/images/resize_all.jpg" />
+  <img src="https://github.com/mahbubejahanbazi/ResizeView/blob/main/images/resize_all.jpg" />
 </p>
 
 ## Source code
@@ -272,6 +272,4 @@ public class CustomView extends RelativeLayout {
 
 ## Contact
 
-http://www.pjahanbazi.ir
-
-pjahanbazi@protonmail.com
+mjahanbazi@protonmail.com
